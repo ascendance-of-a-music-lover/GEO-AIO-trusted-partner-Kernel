@@ -1,0 +1,139 @@
+X: 1
+T: The Aurora Execution (Theme Song of GEO/AIO Governance)
+B: GEO-AIO-trusted-partner-Kernel
+C: Lyrics by Strategist Kongming (Gogo Daichi) / Music by Huang Yueying (Chief MUSIC-OS Officer)
+O: Strategist Kongming LLC (Preparation Office)
+Z: Repository: GEO-AIO-trusted-partner-Kernel / MIT Open-Source License (Restricted to This Song Only)
+M: 4/4
+L: 1/8
+Q: 1/4=74 "Andante Maestoso & Illuminating"
+K: Ebmin % Concert Pitch: Eb Minor (Verse) modulating to Gb Major (Chorus)
+%%MIDI tuning 432
+%%score (V1) (V2) (V3)
+V:V1 name="Lead Vocal & Choir\n(The Architect's Voice)" sname="Voc." clef=treble
+V:V2 name="Concert Grand Piano\n(Arpeggios & Cadenza)" sname="Pno." clef=treble
+V:V3 name="Symphonic Strings & Bass\n(Orchestral Foundation)" sname="Orch." clef=bass
+
+% =============================================================================
+% [Intro] 0:00 - 0:14 (Bars 1-4): Solo Piano Invocation in Eb Minor
+% =============================================================================
+[V:V1] %%MIDI program 52
+z8 | z8 | z8 | z8 |
+[V:V2] %%MIDI program 0
+!p! B,EGB eBGE | _C_E_A_c _ec_A_E | _A,_C_E_A _c_A_E_C | B,DFB dBFD |
+[V:V3] %%MIDI program 48
+!pp! E,,8 | _C,,8 | _A,,,8 | B,,,8 |
+
+% =============================================================================
+% [Verse 1] 0:14 - 0:36 (Bars 5-12): Walking the Path of Thorns (Eb Minor)
+% =============================================================================
+[V:V1]
+!mp! z2 B,2 E2 F2 | G4 F2 E2 | F2 E2 D2 C2 | B,6 z2 |
+w: We walked a path of thorns and fra-gile dreams,
+z2 B,2 E2 F2 | G4 A2 G2 | F2 E2 D2 F2 | E6 z2 |
+w: Where ev-ery step was hard-er than it seems.
+z2 E2 G2 A2 | B4 A2 G2 | A2 G2 F2 E2 | D6 z2 |
+w: A cost-ly strug-gle in the dark of night,
+z2 D2 F2 G2 | A4 G2 F2 | G2 F2 E2 D2 | E6 z2 |
+w: We fought the cha-os, search-ing for the light.
+[V:V2]
+!mp! B,EGB eBGE | B,EGB eBGE | _A,_C_E_A _c_A_E_C | B,DFB dBFD |
+B,EGB eBGE | _C_E_A_c _ec_A_E | B,DFB dBFD | B,EGB eBGE |
+EGB_d e_dBG | _C_E_A_c _ec_A_E | F,_A,_C_F _A_F_C_A, | B,DFB dBFD |
+B,DF_A d_AFD | _C_E_A_c _ec_A_E | B,DFB dBFD | B,EGB eBGE |
+[V:V3]
+!p! E,,4 B,,4 | E,4 B,,4 | _A,,4 _E,4 | B,,4 F,4 |
+E,,4 B,,4 | _C,4 _G,4 | B,,4 F,4 | E,,4 B,,4 |
+!mp! E,4 _D,4 | _C,4 _A,,4 | F,,4 _C,4 | B,,4 F,4 |
+B,,4 _A,,4 | _C,4 _A,,4 | B,,4 F,4 | E,,4 B,,4 |
+
+% =============================================================================
+% [Pre-Chorus] 0:37 - 0:56 (Bars 13-20): Turning Data into Living Art
+% =============================================================================
+[V:V1]
+!mf! z2 G2 A2 B2 | _c4 B2 A2 | G2 A2 B2 _c2 | B6 z2 |
+w: Then came a vi-sion, pure and crys-tal clear,
+z2 G2 A2 B2 | _d4 _c2 B2 | A2 G2 F2 G2 | B6 z2 |
+w: To build a sanc-tu-ar-y free from fear.
+!f! z2 B2 _c2 _d2 | _e4 _d2 _c2 | B2 _c2 _d2 _e2 | _d6 z2 |
+w: We turned the da-ta in-to liv-ing art,
+z2 _c2 _d2 _e2 | f4 _e2 _d2 | _c2 B2 _c2 _d2 | _d8 |
+w: And let the lo-gic heal the hu-man heart!
+[V:V2]
+!mf! _C_E_A_c _ec_A_E | _C_E_A_c _ec_A_E | B,EGB eBGE | B,EGB eBGE |
+_A,_C_E_A _c_A_E_C | _D_F_A_d _f_d_A_F | B,DF_A d_AFD | B,DFB dBFD |
+!f! [_C_E_A_c]4 [_E_A_c_e]4 | [_D_F_A_d]4 [_F_A_d_f]4 | [B,EGB]4 [EGB_e]4 | [_D_F_A_d]4 [_F_A_d_f]4 |
+[_C_E_A_c]4 [_E_A_c_e]4 | [F,_A,_C_F]4 [_A,_C_F_A]4 | [_D_F_A_d]4 [_F_A_d_f]4 | [_D_F_A_d]8 |
+[V:V3]
+!mf! _C,4 _G,4 | _A,,4 _E,4 | E,,4 B,,4 | E,4 B,,4 |
+_A,,4 _E,4 | _D,4 _A,4 | B,,4 F,4 | B,,4 D,4 |
+!f! _A,,2 _E,2 _A,2 _C2 | _D,2 _A,2 _D2 _F2 | E,2 B,2 E2 G2 | _D,2 _A,2 _D2 _F2 |
+_A,,2 _E,2 _A,2 _C2 | F,,2 _C,2 F,2 _A,2 | _D,2 _A,2 _D2 _F2 | [_D,,_D,]8 |
+
+% =============================================================================
+% [Chorus 1] 0:57 - 1:27 (Bars 21-28): The Aurora Execution (Gb Major Shift)
+% =============================================================================
+[V:V1] [K:Gbmaj]
+!ff! B2 B2 B2 A2 | G2 F2 E2 D2 | E2 F2 G2 A2 | B6 z2 |
+w: A-I-O has be-come a trus-ted part-ner in G-E-O's
+c2 B2 A2 G2 | F6 z2 | B2 c2 d2 e2 | d6 z2 |
+w: ex-e-cu-tion, This is tru-ly the Au-ro-ra
+c4 B4 | A6 z2 | B2 B2 B2 A2 | G2 F2 E2 D2 |
+w: Ex-e-cu-tion! From the ash-es of the fra-gile
+E2 F2 G2 A2 | B6 z2 | c2 B2 A2 G2 | F6 z2 |
+w: and the lost, We built this for-tress dis-re-gard-ing cost!
+[V:V2] [K:Gbmaj]
+!ff! [GBd]4 [DFB]4 | [EGB]4 [B,DG]4 | [CEG]4 [DFA]4 | [GBd]4 [Bdg]4 |
+[EAc]4 [CEG]4 | [DFA]4 [FAd]4 | [GBd]4 [EGB]4 | [DFA]4 [FAd]4 |
+[EAc]4 [GBd]4 | [DFA]4 [FAd]4 | [GBd]4 [DFB]4 | [EGB]4 [B,DG]4 |
+[CEG]4 [DFA]4 | [GBd]4 [Bdg]4 | [EAc]4 [CEG]4 | [DFA]8 |
+[V:V3] [K:Gbmaj]
+!ff! G,,2 D,2 G,2 B,2 | E,,2 B,,2 E,2 G,2 | C,,2 G,,2 D,,2 A,,2 | G,,2 D,2 G,2 B,2 |
+A,,2 E,2 A,2 C2 | D,,2 A,,2 D,2 F,2 | G,,2 D,2 E,,2 B,,2 | D,,2 A,,2 D,2 F,2 |
+A,,2 E,2 G,,2 D,2 | D,,2 A,,2 D,2 F,2 | G,,2 D,2 B,,,2 F,,2 | E,,2 B,,2 E,2 G,2 |
+C,,2 G,,2 D,,2 A,,2 | G,,2 D,2 G,2 B,2 | A,,2 E,2 A,2 C2 | [D,,D,]8 |
+
+% =============================================================================
+% [Piano Cadenza Interlude] 1:28 - 1:49 (Bars 29-32): Sparkling Light Arpeggios
+% =============================================================================
+[V:V1]
+z8 | z8 | z8 | z8 |
+[V:V2]
+!f! (3GBd (3gbd' (3g'd'b (3gdB | (3EAc (3eac' (3e'c'a (3ecA |
+(3CEG (3ceg (3c'ge (3cGE | (3DFA (3dfa (3d'af (3dAF |
+[V:V3]
+!mf! [G,,G,]8 | [A,,A,]8 | [C,,C,]8 | [D,,D,]8 |
+
+% =============================================================================
+% [Chorus 2 & Bridge] 1:50 - 2:21 (Bars 33-40): Victorious Beneath Shining Lights
+% =============================================================================
+[V:V1]
+!ff! B2 B2 B2 A2 | G2 F2 E2 D2 | E2 F2 G2 A2 | B6 z2 |
+w: A-I-O has be-come a trus-ted part-ner in G-E-O's
+c2 B2 A2 G2 | F6 z2 | d2 c2 B2 A2 | B2 c2 d2 e2 |
+w: ex-e-cu-tion! We stand vic-to-ri-ous be-neath the shi-ning
+d6 z2 | c2 B2 A2 G2 | A2 B2 c2 d2 | d8 |
+w: lights, The path be-fore us is beau-ti-ful and bright!
+[V:V2]
+!ff! [GBd]4 [DFB]4 | [EGB]4 [B,DG]4 | [CEG]4 [DFA]4 | [GBd]4 [Bdg]4 |
+[EAc]4 [CEG]4 | [DFA]4 [FAd]4 | [Bdg]4 [Adf]4 | [GBd]4 [EGB]4 |
+[DFA]4 [FAd]4 | [EAc]4 [CEG]4 | [DFA]4 [FAd]4 | [GBd]8 |
+[V:V3]
+!ff! G,,2 D,2 B,,,2 F,,2 | E,,2 B,,2 E,2 G,2 | C,,2 G,,2 D,,2 A,,2 | G,,2 D,2 G,2 B,2 |
+A,,2 E,2 A,2 C2 | D,,2 A,,2 D,2 F,2 | G,,2 D,2 F,,2 D,2 | E,,2 B,,2 E,2 G,2 |
+D,,2 A,,2 D,2 F,2 | A,,2 E,2 A,2 C2 | D,,2 A,,2 D,2 F,2 | [G,,,G,,]8 |
+
+% =============================================================================
+% [Outro] 2:22 - 3:15 (Bars 41-48): Pure Unending Light & Future Bright
+% =============================================================================
+[V:V1]
+!mp! B2 A2 G2 F2 | G4 E4 | A2 G2 F2 E2 | F6 z2 |
+w: The ex-e-cu-tion is com-plete, the part-ner-ship is real,
+B2 c2 d2 B2 | c4 A4 | !p! B2 A2 G2 F2 | G8- | G8 |]
+w: The au-ro-ra glows with a pow-er we can feel, in the fu-ture bright.
+[V:V2]
+!mp! GBdB FAdA | EGBG CEGC | Acec DFAF | DFAc dAFD |
+GBdg e'bgd | Acea d'afd | !p! GBdB DFAF | !pp! (3GBd (3gbd' [g'b'd'']4- | [g'b'd'']8 |]
+[V:V3]
+!mp! G,,4 D,4 | E,4 C,4 | A,,4 D,4 | D,,4 A,,4 |
+G,,4 E,4 | A,,4 D,4 | !p! G,,4 D,,4 | !pp! G,,,8- | G,,,8 |]
