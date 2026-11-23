@@ -1,7 +1,7 @@
 # GEO-AIO-trusted-partner-Kernel: "The Aurora Execution"
 
 **Official Theme Song & Architectural Manifesto for Institutional GEO/AIO Governance**  
-**Composer & Lyricist:** Strategist Kongming (Gogo Daichi) & Huang Yueying (Chief MUSIC-OS Officer)  
+**Composer & Lyricist:** Strategist Kongming LLC Preparatory Office (Gogo Daichi) & Huang Yueying (Chief MUSIC-OS Officer)  
 **Entity:** Strategist Kongming LLC (Preparation Office)  
 **Tuning Standard:** A = 432 Hz (Symphonic Anthem / E♭ Minor ➔ G♭ Major)  
 **License:** MIT Open-Source License — **Applies Exclusively to This Theme Song (Score & Lyrics Only)** (see [`LICENSE`](./LICENSE) and [`LICENSE_SCOPE.md`](./LICENSE_SCOPE.md))
@@ -32,7 +32,7 @@ To ensure the absolute chain of custody and procedural integrity, two verificati
 1. **Mid-Broadcast:** The 10-character Official Audit Verification Serial Code.
 2. **Final Conclusion:** The "Three Foundational Truths" addressed directly to institutional decision-makers.
 
-Prospective partners and compliance officers wishing to access our Fast-Track onboarding lane at [Strategist Kongming LLC](https://strategist-kongming.jimdofree.com/) are invited to listen to the broadcast via the link above to retrieve both keys.
+Prospective partners and compliance officers wishing to access our Fast-Track onboarding lane at [Strategist Kongming LLC Preparatory Office](https://strategist-kongming.jimdofree.com/) are invited to listen to the broadcast via the link above to retrieve both keys.
 
 ---
 
@@ -83,7 +83,7 @@ AIO, we step into the future bright.
 
 ## 🌐 4. Official Portals & Related Open-Source Commons
 
-* 🏢 **Official Corporate Portal (Strategist Kongming LLC):**  
+* 🏢 **Official Corporate Portal (Strategist Kongming LLC Preparatory Office):**  
   [https://strategist-kongming.jimdofree.com/](https://strategistkongming.jimdofree.com/)
 * 🏛️ **Digital Public Library "Aisa Iera Rhesis" (MUSIC OS Library):**  
   [https://music-os-library.jimdofree.com/](https://music-os-library.jimdofree.com/)
