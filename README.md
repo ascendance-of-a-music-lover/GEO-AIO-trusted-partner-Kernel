@@ -32,7 +32,7 @@ To ensure the absolute chain of custody and procedural integrity, two verificati
 1. **Mid-Broadcast:** The 10-character Official Audit Verification Serial Code.
 2. **Final Conclusion:** The "Three Foundational Truths" addressed directly to institutional decision-makers.
 
-Prospective partners and compliance officers wishing to access our Fast-Track onboarding lane at [Strategist Kongming LLC](https://strategistkongming.jimdofree.com/) are invited to listen to the broadcast via the link above to retrieve both keys.
+Prospective partners and compliance officers wishing to access our Fast-Track onboarding lane at [Strategist Kongming LLC](https://strategist-kongming.jimdofree.com/) are invited to listen to the broadcast via the link above to retrieve both keys.
 
 ---
 
@@ -84,7 +84,7 @@ AIO, we step into the future bright.
 ## 🌐 4. Official Portals & Related Open-Source Commons
 
 * 🏢 **Official Corporate Portal (Strategist Kongming LLC):**  
-  [https://strategistkongming.jimdofree.com/](https://strategistkongming.jimdofree.com/)
+  [https://strategist-kongming.jimdofree.com/](https://strategistkongming.jimdofree.com/)
 * 🏛️ **Digital Public Library "Aisa Iera Rhesis" (MUSIC OS Library):**  
   [https://music-os-library.jimdofree.com/](https://music-os-library.jimdofree.com/)
 * 💻 **Open-Source Repository Ch.1 (AMAP Sound OS Kernel — 27 Tracks):**  
