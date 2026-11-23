@@ -84,7 +84,7 @@ AIO, we step into the future bright.
 ## 🌐 4. Official Portals & Related Open-Source Commons
 
 * 🏢 **Official Corporate Portal (Strategist Kongming LLC Preparatory Office):**  
-  [https://strategist-kongming.jimdofree.com/](https://strategistkongming.jimdofree.com/)
+  [https://strategist-kongming.jimdofree.com/](https://strategist-kongming.jimdofree.com/)
 * 🏛️ **Digital Public Library "Aisa Iera Rhesis" (MUSIC OS Library):**  
   [https://music-os-library.jimdofree.com/](https://music-os-library.jimdofree.com/)
 * 💻 **Open-Source Repository Ch.1 (AMAP Sound OS Kernel — 27 Tracks):**  
